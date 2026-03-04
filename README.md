@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am working as a django full-stack developer
+i am working as a full-stack engineer
 
 
 ## 🌐 Socials:
